@@ -28,7 +28,7 @@ If you **are** familiar with making a pull request, we **highly recommend that y
 
 You will need to have **Node.js** installed to run the live previews of the docs locally.
 
-It is highly recommended that you use a tool like [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating) to manage Node.js versions on your machine.
+It is highly suggested that you use a tool like [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating) to manage Node.js versions on your machine.
 
 ### Installing recommended Node.js version with `nvm`
 
